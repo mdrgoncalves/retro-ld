@@ -2,4 +2,4 @@
 <p align="justify"> Landing Page de uma empresa fictícia para estudo de BOOTSTRAP. </p>
 
 <h2> Visualização do Projeto: :star: </h2>
-<a href="https://gifyu.com/image/STFio"><img src="https://s4.gifyu.com/images/uR4zuYa1Gf.gif" alt="uR4zuYa1Gf.gif" border="0" /></a>
+<a href="https://ibb.co/CbMpnxs"><img src="https://i.ibb.co/7nRxG7N/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"></a>
