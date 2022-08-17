@@ -6,5 +6,5 @@
 <div align="center"><img src="https://media.giphy.com/media/oMYGawdqB4NTGVKAz9/giphy.gif" /></div>
 
 <br>
-<p align="center">See Here:</p>
-<p align="center"><a href="https://pokedex-mdrgoncalves.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?label=&message=Pokedex&color=146bf7&style=for-the-badge&logo=ghost"/></a></p>
+<p align="center"> :star: Veja Aqui: </p>
+<p align="center"><a href="https://pokedex-mdrgoncalves.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?label=&message=Projeto&color=146bf7&style=for-the-badge&logo=ghost"/></a></p>
