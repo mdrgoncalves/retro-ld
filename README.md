@@ -7,4 +7,4 @@
 
 <br>
 <p align="center"> :star: Veja Aqui: </p>
-<p align="center"><a href="https://pokedex-mdrgoncalves.vercel.app/" target="blank"><img src="https://img.shields.io/static/v1?label=&message=Projeto&color=146bf7&style=for-the-badge&logo=ghost"/></a></p>
+<p align="center"><a href="https://mdrgoncalves.github.io/retro-ld/" target="blank"><img src="https://img.shields.io/static/v1?label=&message=Projeto&color=146bf7&style=for-the-badge&logo=ghost"/></a></p>
